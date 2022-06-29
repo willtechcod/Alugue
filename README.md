@@ -8,7 +8,7 @@
 
 ## 🔖&nbsp; Sobre
 
-Projeto desenvolvido para simular uma aplicativo de aluguel de casas
+Projeto desenvolvido para simular um aplicativo de aluguel de casas
 
 ---
 
@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
   <a href="https://www.linkedin.com/in/william-pereira-da-concei%C3%A7%C3%A3o-ba4496127/">
     <img alt="LinkedIn" width="22px" src="./src/assets/052-linkedin.svg" />
   </a>&ensp;
-  <a href="mailto:devperei2019@gmail.com">
+  <a href="mailto:dev.pereira2019@gmail.com">
     <img alt="Email" width="22px" src="./src/assets/gmail.svg" />
   </a>&ensp;
   <a href="https://www.instagram.com/willtechcode/">
